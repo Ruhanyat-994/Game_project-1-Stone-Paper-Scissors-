@@ -1,4 +1,4 @@
-'''Stone,Paper,Scissors'''
+'''Stone,Paper,Scissors = play with your friends'''
 import random
 
 def spsci(comp,mine):
