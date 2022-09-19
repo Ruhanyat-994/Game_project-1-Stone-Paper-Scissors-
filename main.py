@@ -1,3 +1,4 @@
+'''Stone,Paper,Scissors'''
 import random
 
 def spsci(comp,mine):
